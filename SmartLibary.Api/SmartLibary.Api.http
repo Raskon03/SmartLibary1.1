@@ -1,0 +1,6 @@
+@SmartLibary.Api_HostAddress = http://localhost:5224
+
+GET {{SmartLibary.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
